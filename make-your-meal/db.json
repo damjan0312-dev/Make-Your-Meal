@@ -1,0 +1,133 @@
+{
+  "side-addons": [
+    {
+      "id": 1,
+      "name": "Bun",
+      "price": 0.5,
+      "image": "https://cuisinecorpaustralia.com.au/wp-content/uploads/2018/08/CMC203-Burger-bun-_HP_0368.jpg?x26988",
+      "type": "food"
+    },
+    {
+      "id": 2,
+      "name": "Meat",
+      "price": 1.09,
+      "image": "https://ak4.picdn.net/shutterstock/videos/32252194/thumb/12.jpg",
+      "type": "food"
+    },
+    {
+      "id": 3,
+      "name": "Fries",
+      "price": 1.79,
+      "image": "https://www.medicalnewstoday.com/content/images/articles/317/317941/a-basket-of-french-fries.jpg",
+      "type": "food"
+    },
+    {
+      "id": 4,
+      "name": "Bacon",
+      "price": 1.4,
+      "image": "https://www.lemonblossoms.com/wp-content/uploads/2019/01/Bacon-in-the-Oven-S1.jpg",
+      "type": "food"
+    },
+    {
+      "id": 5,
+      "name": "Caramelized Onions",
+      "price": 0.99,
+      "image": "https://sweetsimplevegan.com/wp-content/uploads/2018/01/How_To_Caramelize_Onions_Without_Oil_1-1.jpg",
+      "type": "food"
+    },
+    {
+      "id": 6,
+      "name": "Cheese",
+      "price": 1.2,
+      "image": "https://cdnimg.webstaurantstore.com/images/products/large/485552/1814801.jpg",
+      "type": "food"
+    },
+    {
+      "id": 7,
+      "name": "Fried Egg",
+      "price": 1,
+      "image": "https://i.dailymail.co.uk/i/pix/2017/03/23/09/3E8CA0A900000578-4341566-image-a-3_1490260698976.jpg",
+      "type": "food"
+    },
+    {
+      "id": 8,
+      "name": "Grilled Mashrooms",
+      "price": 1.2,
+      "image": "http://3.bp.blogspot.com/-jd1YjCJP8y8/U7I5__PRj3I/AAAAAAAAJGA/Su3KLkI9DAI/s1600/grilledmushroomslandscape.jpg",
+      "type": "food"
+    },
+    {
+      "id": 9,
+      "name": "Avocado Slices",
+      "price": 2.29,
+      "image": "http://www.californiaavocado.com/blog/wp-content/uploads/2014/06/avocado-slices.jpg",
+      "type": "food"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 10,
+      "name": "Coca Cola",
+      "price": 1.49,
+      "image": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/0/0/00049000004632_main.jpg",
+      "type": "drinks",
+      "special_price": 0,
+      "new_price": 1.49
+    },
+    {
+      "id": 11,
+      "name": "Sprite",
+      "price": 1.49,
+      "image": "https://static.turbosquid.com/Preview/2019/06/28__09_02_08/1.jpgACAF5A11-9FCA-408F-9D5B-9133E2001C90Default.jpg",
+      "type": "drinks",
+      "special_price": 0,
+      "new_price": 1.49
+    },
+    {
+      "id": 12,
+      "name": "Fanta",
+      "price": 1.49,
+      "image": "https://jdsfoodgroup.co.uk/wp-content/uploads/2016/05/Fanta-Orange-Glass-500x666.jpg",
+      "type": "drinks",
+      "special_price": 0,
+      "new_price": 1.49
+    },
+    {
+      "id": 13,
+      "name": "Beer Budweieser",
+      "price": 1.79,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51L4SsgPS5L._SL1000_.jpg",
+      "type": "drinks",
+      "special_price": 1,
+      "new_price": 1.59
+    },
+    {
+      "id": 14,
+      "name": "Beer Amstel",
+      "price": 1.79,
+      "image": "https://i1.wp.com/liquorvillage.co.ke/wp-content/uploads/2019/02/Amstel-330ml-bottle.jpg?fit=1800%2C1800&ssl=1",
+      "type": "drinks",
+      "special_price": 1,
+      "new_price": 1.39
+    },
+    {
+      "id": 15,
+      "name": "Lipton ICE TEA",
+      "price": 1.49,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41DC7ABtH4L.jpg",
+      "type": "drinks",
+      "special_price": 1,
+      "new_price": 1.09
+    },
+    {
+      "id": 16,
+      "name": "Strawberry Juice",
+      "price": 1.29,
+      "image": "https://rita.com.vn/media/zoo/images/250ml_Glass_Bottle_Strawberry_Juice_9ba194fc28e42898a279b1963b08f18f.jpg",
+      "type": "drinks",
+      "special_price": 1,
+      "new_price": 0.99
+    }
+  ],
+  "orders": []
+}
